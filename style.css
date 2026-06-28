@@ -1,0 +1,24 @@
+body {
+  background: #0b0f19;
+  color: white;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #00d4ff;
+}
+
+h2 {
+  color: #00ff88;
+  border-bottom: 1px solid #333;
+  padding-bottom: 8px;
+}
+
+hr {
+  border: 1px solid #222;
+}
+
+p, li {
+  font-size: 16px;
+}
